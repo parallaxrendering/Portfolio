@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ParallaxRendering.github.io/sitemap.xml

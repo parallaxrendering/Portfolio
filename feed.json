@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ParallaxRendering&#x27;s Portfolio",
+    "description": "",
+    "home_page_url": "https://ParallaxRendering.github.io",
+    "feed_url": "https://ParallaxRendering.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ParallaxRendering"
+    },
+    "items": [
+    ]
+}
